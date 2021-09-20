@@ -6,8 +6,8 @@ const background = () => {
       <div className="md:flex w-11/12 md:w-4/5 items-center justify-center mx-auto py-16">
         <div className="glass p-10 max-w-xl">
           <h1 className="text-center text-3xl font-bold">Schedule</h1>
-          <div className="w-11/12  mx-auto rounded-lg text-customBlack font-semibold pt-10">
-            <ul class="list-decimal list-inside list">
+          <div className="w-11/12  mx-auto rounded-lg text-black font-semibold pt-10">
+            <ul class="list-decimal list-outside list">
               <li>Opening speech by Alumni Affairs Secretary - Narasimhan</li>
               <li>Address by PIC(Alumni Affairs) - Dr.Selvajyothi</li>
               <li>Address by Dr. Sivaselvan B</li>
