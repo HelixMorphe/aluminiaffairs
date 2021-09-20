@@ -7,7 +7,7 @@ const background = () => {
         <div className="glass p-10 max-w-xl">
           <h1 className="text-center text-3xl font-bold">Schedule</h1>
           <div className="w-11/12  mx-auto rounded-lg text-customBlack font-semibold pt-10">
-            <ul class="list-decimal list-inside">
+            <ul class="list-decimal list-inside list">
               <li>Opening speech by Alumni Affairs Secretary - Narasimhan</li>
               <li>Address by PIC(Alumni Affairs) - Dr.Selvajyothi</li>
               <li>Address by Dr. Sivaselvan B</li>
@@ -24,15 +24,15 @@ const background = () => {
           <div className="text-customBlack font-bold text-3xl text-center py-4">
             Join Us at
           </div>
-          <div className="flex items-center justify-evenly w-full pt-4">
+          <div className="flex flex-col md:flex-row items-center justify-evenly w-full pt-4 text-sm md:text-base">
             <a href="#">
-              <div className="bg-white border border-gray-300 hover:border-none md:bg-transparent shadow-xl md:shadow-none hover:bg-white transition duration-200 py-4 px-6 hover:shadow-lg rounded-xl hover:text-black">
+              <div className="bg-white border border-gray-300 my-2 md:bg-transparent shadow-xl md:shadow-none hover:bg-white transition duration-200 py-4 px-6 hover:shadow-lg rounded-xl hover:text-black">
                 GMeet Link 1
               </div>
             </a>
             <span>and</span>
             <a href="#">
-              <div className="bg-white border border-gray-300 hover:border-none md:bg-transparent shadow-xl md:shadow-none hover:bg-white transition duration-200 py-4 px-6 hover:shadow-lg rounded-xl hover:text-black">
+              <div className="bg-white my-2 border border-gray-300  md:bg-transparent shadow-xl md:shadow-none hover:bg-white transition duration-200 py-4 px-6 hover:shadow-lg rounded-xl hover:text-black">
                 GMeet Link 2
               </div>
             </a>
