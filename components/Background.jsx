@@ -13,7 +13,6 @@ const background = () => {
               <li>Address by Dr. Sivaselvan B</li>
               <li>Address by Dr Senthilkumaran K</li>
               <li>Address by Dean Academics - Dr. Binsu J Kailath</li>
-              <li>Address by Dean Academics - Dr. Binsu J Kailath</li>
               <li>Address by director - Prof DVLN Somayajulu</li>
               <li>Alumni discussion</li>
               <li>
