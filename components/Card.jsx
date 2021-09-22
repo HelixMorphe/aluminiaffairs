@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 const Card = ({ link, image, name, subtitle }) => {
   return (
-    <div className="w-1/2 mx-auto md:w-11/12 md:mx-2 pt-10 pb-5 bg-white rounded-lg shadow-md flex flex-col items-center">
+    <div className="mx-auto md:w-11/12 mb-5 md:mx-2 pt-10 pb-5 w-full bg-white rounded-lg shadow-md flex flex-col items-center">
       <div className="rounded-full flex items-center pb-10">
         <Image
           src={image}

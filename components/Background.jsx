@@ -4,7 +4,7 @@ const background = () => {
   return (
     <div className="bg-cover  flex items-center justify-center bg-hero-pattern bg-no-repeat text-customBlack">
       <div className="md:flex w-[95%] md:w-4/5 items-center justify-center mx-auto py-16">
-        <div className="glass p-3 sm:p-10 w-4/5 mx-auto">
+        <div className="glass p-3 sm:p-10 sm:w-4/5 mx-auto">
           <h1 className="text-center text-3xl font-bold">Schedule</h1>
           <div className="w-full text-[14px] md:text-base mx-auto rounded-lg text-black font-semibold pt-10">
             <ul class="md:list-decimal list-outside list">

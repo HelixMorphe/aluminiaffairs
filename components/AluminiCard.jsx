@@ -7,7 +7,7 @@ const AluminiCard = () => {
       <h1 className="text-center font-bold text-3xl">
         IIITDM Alumini Speakers
       </h1>
-      <div className=" py-5 flex">
+      <div className=" py-5 flex flex-col md:flex-row">
         <Card
           link="https://www.linkedin.com/in/anuraggupta1729/"
           image="https://media-exp1.licdn.com/dms/image/C4E03AQFMk9GH_AMyVg/profile-displayphoto-shrink_800_800/0/1516331722729?e=1637798400&v=beta&t=dFqND4U4d_h5iqjcriTL1bSnKM6MBkRypzsFSs_wg-8"
