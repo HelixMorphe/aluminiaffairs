@@ -24,13 +24,13 @@ const background = () => {
             Join Us at
           </div>
           <div className="flex flex-col md:flex-row items-center justify-evenly w-full pt-4 text-sm md:text-base">
-            <a href="#">
+            <a href="https://meet.google.com/dwb-dity-svr" target="_blank">
               <div className="bg-white border border-gray-300 my-2 md:bg-transparent shadow-xl md:shadow-none hover:bg-white transition duration-200 py-4 px-6 hover:shadow-lg rounded-xl hover:text-black">
                 GMeet Link 1
               </div>
             </a>
             <span>and</span>
-            <a href="#">
+            <a href="https://meet.google.com/hsq-xvpg-zag" target="_blank">
               <div className="bg-white my-2 border border-gray-300  md:bg-transparent shadow-xl md:shadow-none hover:bg-white transition duration-200 py-4 px-6 hover:shadow-lg rounded-xl hover:text-black">
                 GMeet Link 2
               </div>
