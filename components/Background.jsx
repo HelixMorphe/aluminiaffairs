@@ -29,7 +29,7 @@ const background = () => {
                 GMeet Link 1
               </div>
             </a>
-            <span>and</span>
+            <span>OR</span>
             <a href="https://meet.google.com/hsq-xvpg-zag" target="_blank">
               <div className="bg-white my-2 border border-gray-300  md:bg-transparent shadow-xl md:shadow-none hover:bg-white transition duration-200 py-4 px-6 hover:shadow-lg rounded-xl hover:text-black">
                 GMeet Link 2
