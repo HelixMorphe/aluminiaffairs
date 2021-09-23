@@ -15,7 +15,7 @@ const Card = ({ link, image, name, subtitle }) => {
       </div>
       <div className="text-center">
         <div className="text-blue-600 hover:text-blue-800 py-2">
-          <Link href={link}>{name} target="_blank"</Link >
+          <Link href={link} target="_blank">{name}</Link >
         </div>
         <div className="text-gray-600 w-11/12 mx-auto text-center">
           {subtitle}
