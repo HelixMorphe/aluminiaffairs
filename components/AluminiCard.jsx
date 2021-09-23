@@ -23,7 +23,7 @@ const AluminiCard = () => {
         <Card
           link="https://www.linkedin.com/in/shubhamksingh/"
           image="https://media-exp1.licdn.com/dms/image/C5103AQEVLze9HeTSow/profile-displayphoto-shrink_800_800/0/1583413332906?e=1637798400&v=beta&t=NNw4Ul88ugzZygvzrUGzyNmdmojSndfab7_bUhogWuU"
-          name="Shubham Singh."
+          name="Shubham Singh"
           subtitle="Technical Consultant at Fizyr, #1 in deeplearning software for automated picking of unknown items and parcels"
         />
       </div>
