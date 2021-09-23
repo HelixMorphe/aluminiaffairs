@@ -8,16 +8,17 @@ const background = () => {
           <h1 className="text-center text-3xl font-bold">Schedule</h1>
           <div className="w-full text-[14px] md:text-base mx-auto rounded-lg text-black font-semibold pt-10">
             <ul class="md:list-decimal list-outside list">
-              <li>Opening speech by Alumni Affairs Secretary - Narasimhan</li>
-              <li>Address by PIC(Alumni Affairs) - Dr.Selvajyothi</li>
-              <li>Address by Dr. Sivaselvan B</li>
+              <li>Opening speech by Alumni Affairs Secretary - Narasimhan AVPL</li>
+              <li>Address by PIC(Alumni Affairs) - Dr K Selvajyothi</li>
               <li>Address by Dr Senthilkumaran K</li>
-              <li>Address by Dean Academics - Dr. Binsu J Kailath</li>
+              <li>Address by Dr Sivaselvan B</li>
+              <li>Address by Dean Academics - Dr Binsu J Kailath</li>
               <li>Address by director - Prof DVLN Somayajulu</li>
+              <li>Speech by alumnus - Anurag Gupta</li>
+              <li>Speech by alumnus - Sriram Muralidharan</li>
+              <li>Speech by alumnus - Shubham Singh</li>
               <li>Alumni discussion</li>
-              <li>
-                Vote of thanks by Join Alumni Affairs Secretary - N Sree Dhyuti
-              </li>
+              <li>Vote of thanks by Join Alumni Affairs Secretary - N Sree Dhyuti</li>
             </ul>
           </div>
           <div className="text-customBlack font-bold text-3xl text-center py-4">
