@@ -9,7 +9,7 @@ const Header = () => {
         </div>
 
         <p className="text-customBlue text-lg md:text-4xl font-bold text-center">
-          Alumini Meet 2021
+          5th Alumni Meet 2021
         </p>
         <div className="relative h-[50px] w-[100px] md:h-[80px] md:w-[150px]">
           <Image
