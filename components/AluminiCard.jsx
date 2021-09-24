@@ -5,7 +5,7 @@ const AluminiCard = () => {
   return (
     <div className="py-5">
       <h1 className="text-center font-bold text-3xl">
-        IIITDM Alumini Speakers
+        IIITDM Alumni Speakers
       </h1>
       <div className=" py-5 flex flex-col md:flex-row">
         <Card
